@@ -1,0 +1,57 @@
+[
+    {
+      "id": 1,
+      "name": "Book",
+      "price": 140.99,
+      "imgUrl": "https://source.unsplash.com/random/900×700/?book"
+    },
+    {
+      "id": 2,
+      "name": "Computer",
+      "price": 40000,
+      "imgUrl": "https://source.unsplash.com/random/900×700/?computer"
+    },
+    {
+      "id": 3,
+      "name": "Banana",
+      "price": 2.4,
+      "imgUrl": "https://source.unsplash.com/random/900×700/?banana"
+    },
+    {
+      "id": 4,
+      "name": "Car",
+      "price": 414000,
+      "imgUrl": "https://source.unsplash.com/random/900×700/?car"
+    },
+    {
+      "id": 5,
+      "name": "mac",
+      "price": 90000,
+      "imgUrl": "https://source.unsplash.com/random/320×240/?macbookpro"
+    },
+    {
+      "id": 6,
+      "name": "Googles",
+      "price": 7000,
+      "imgUrl": "https://source.unsplash.com/random/320×240/?sunglasses"
+    },
+    {
+      "id": 7,
+      "name": "shirt",
+      "price": 2000,
+      "imgUrl": "https://source.unsplash.com/random/320×240/?shirt"
+    },
+    {
+      "id": 8,
+      "name": "Hardcase",
+      "price": 500,
+      "imgUrl": "https://source.unsplash.com/random/320×240/?phonecase"
+    },
+    {
+      "id": 9,
+      "name": "Typewritter",
+      "price": 2000,
+      "imgUrl": "https://source.unsplash.com/random/320×240/?typewritter"
+    }
+
+  ]
